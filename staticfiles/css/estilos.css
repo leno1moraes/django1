@@ -1,0 +1,15 @@
+body{
+    background-color: #341256;
+    color: #ffffff;
+}
+
+a{
+    text-decoration: underline;
+    color: #ffffff;
+}
+
+a:hover{
+    text-decoration: underline;
+    text-decoration-color: red;
+    color: yellow;
+}
